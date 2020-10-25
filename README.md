@@ -4,7 +4,7 @@ This project is an interactive device geared towards learning through memorizati
 
 ## How to Use
 
-This should include how to actually use your project. Is there a process you need to use to build it? How is it deployed. After reading this section I should be able to download this file and have easy steps to follow to get the project to run.
+After downloading all of the files, the user should make sure that Python is downloaded on their laptop or computer. They also should download the Windows 32 API. Then, they should run the main.py on their computer and the interactive learning device should start up. From there, the user can select which mode they want to proceed with, and proceed to use the educational device.
 
 ## How it Works
 
@@ -25,6 +25,7 @@ Some major problems our group faced and overcame were communication problems, si
 ### Issues
 
 In the drawing mode, the mechanism is not smooth, not allowing you to draw fast without becoming dots instead of a smooth line. It is also slightly inconvenient in that it sometimes requires the user to double-click. Additionally, the multiple choice mode does not yet take user inputs as we did not have enough time to impliment this.
+
 ### Future Improvements
 
 One of the main things we would like to improve in the future is the general looks of the Interactive Learning Device. We would make both modes more aesthetically pleasing and smooth if we had an unlimited amount of time. Additionally, we were not able to fully complete our third mode, card matching. We would add this as an option for the user.
